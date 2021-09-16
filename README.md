@@ -2,14 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was made at DIO's Localiza Labs Bootcamp. The main goal was to understand better the PWA (Progressive Web Application). 
+This project was made at DIO's Localiza Labs Bootcamp. The main goal was to understand better the PWA (Progressive Web Application). This is project is using ESlint and Prettier.
 
 ## Dependencies
+
 - react-router-dom: ^5.3.0;
 - antd: ^4.16.13";
-
-
-
 
 ## Available Scripts
 
@@ -37,4 +35,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
