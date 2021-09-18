@@ -30,12 +30,12 @@ function Actions({ post, subject }) {
 }
 
 Actions.defaultProps = {
-  post: PropTypes.string,
+  post: PropTypes.object,
   subject: PropTypes.string,
 }
 
 Actions.propTypes = {
-  post: PropTypes.string,
+  post: PropTypes.object,
   subject: PropTypes.string,
 }
 

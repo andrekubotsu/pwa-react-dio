@@ -31,6 +31,9 @@ module.exports = {
     "eqeqeq": "off",
     "no-shadow": "off",
     "no-unused-vars": "off",
+    "no-restricted-globals":"off",
+    "consistent-return": "off",
+    "array-callback-return": "off",
     'jsx-a11y/no-noninteractive-element-interactions':[
       'off'
     ],
