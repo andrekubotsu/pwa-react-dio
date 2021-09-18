@@ -4,10 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was made at DIO's Localiza Labs Bootcamp. The main goal was to understand better the PWA (Progressive Web Application). This is project is using ESlint and Prettier.
 
+## What were challenging?
+
+- configuring ESlint rules. Since this project was little old, it was necessary to update somethings and linting brought some code warnings/errors;
+
 ## Dependencies
 
 - react-router-dom: ^5.3.0;
 - antd: ^4.16.13";
+- prop-types: ^15.7.2,
 
 ## Available Scripts
 
