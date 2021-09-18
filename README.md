@@ -4,9 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was made at DIO's Localiza Labs Bootcamp. The main goal was to understand better the PWA (Progressive Web Application). This is project is using ESlint and Prettier.
 
-## What were challenging?
+## What was challenging?
 
 - configuring ESlint rules. Since this project was little old, it was necessary to update somethings and linting brought some code warnings/errors;
+
+## What was interesting?
+
+- to learn more and understanding better the concepts of PWA: manifest file, service worker, and configurations;
 
 ## Dependencies
 
