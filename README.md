@@ -18,6 +18,11 @@ This project was made at DIO's Localiza Labs Bootcamp. The main goal was to unde
 - antd: ^4.16.13";
 - prop-types: ^15.7.2,
 
+## Mock API (pwa-news-dio-api folder - rembemer to `yarn`)
+
+- it is possible to run, just use `yarn dev`
+- it is inside, but you can use it solo
+
 ## Available Scripts
 
 In the project directory, you can run:
