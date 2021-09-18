@@ -29,6 +29,7 @@ module.exports = {
     "react/jsx-uses-react": "error",   
     "react/jsx-uses-vars": "error",
     "eqeqeq": "off",
+    "no-shadow": "off",
     "no-unused-vars": "off",
     'jsx-a11y/no-noninteractive-element-interactions':[
       'off'
